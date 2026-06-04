@@ -1,0 +1,20 @@
+# Datasets
+*.csv
+*.npy
+
+# Models
+*.pth
+*.h5
+*.keras
+*.pkl
+
+# Large folders
+embeddings/
+embeddings_pubmedbert/
+mit-bih-arrhythmia-database-1.0.0/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
